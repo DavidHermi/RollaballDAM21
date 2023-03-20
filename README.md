@@ -257,7 +257,7 @@ Lista de componentes a desglosar
 ![image](https://user-images.githubusercontent.com/91197896/226443886-3a891f52-20e0-4e85-b23e-0374aa0ff7b8.png)
 
 
-*Puerta. la puerta el ultimo elemento importante se hizo mediante el animator de unity el cual, grabara dos secuencias una de abrir y otra de cerrar y mediante un Script, el player interectuara directamente con la puerta mediante el contacto y se aaccionaran los movimientos en un ratio de segundos
+* Puerta. la puerta el ultimo elemento importante se hizo mediante el animator de unity el cual, grabara dos secuencias una de abrir y otra de cerrar y mediante un Script, el player interectuara directamente con la puerta mediante el contacto y se aaccionaran los movimientos en un ratio de segundos
 
 **Componentes**
 
