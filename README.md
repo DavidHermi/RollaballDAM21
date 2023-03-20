@@ -226,5 +226,47 @@ Lista de componentes a desglosar
 5. Puerta
 
 
+* Camara. la camara esta desglosada de tal manera que esta orientada para que siga al jugador en todo momento y su vista esta enfocada de lleno al terreno del circuito, sin ella no podriamos ver como se desarolla la aplicacion, puesto que no veriamos nada.
+
+**Componentes**
+
+![image](https://user-images.githubusercontent.com/91197896/226441751-7b1df478-fc9b-4c95-baa3-0796a7dd7d0c.png)
+
+* Player, el player consiste en la bola que vamos manejar con los controles del juego (las flechas) esta bola de color azul esta scripteada de tal manera que ca cumulando puntuacion cuando consigue recolectar los cuadrados en rotacion en el aire, y es perseguida por el enemy.
+
+
+**Componenentes**
+
+
+![image](https://user-images.githubusercontent.com/91197896/226442769-732c37b8-bf6d-4f9d-83e6-65723fe9dadf.png)
+
+
+
+* Colliders, los colliders son objetos en movimiento que el jugador el player va a coleccionar de tal manera que cuando llege a x cantidad de colliders ganaras la partida, estos desapareceran en cuanto el player los pase por encima.
+
+**Componentes**
+
+![image](https://user-images.githubusercontent.com/91197896/226443421-b244608e-0468-4fe6-a669-f1186b9b2826.png)
+
+
+* Enemy. el enemigo es una capsula de color rojo, su funcion es tener por target al player de tal manera que si lo toca se acabo la partida, este perseguira hasta la extenuacion al player, y tu objetivo sera despistarlo.
+
+
+**Componentes**
+
+![image](https://user-images.githubusercontent.com/91197896/226443886-3a891f52-20e0-4e85-b23e-0374aa0ff7b8.png)
+
+
+*Puerta. la puerta el ultimo elemento importante se hizo mediante el animator de unity el cual, grabara dos secuencias una de abrir y otra de cerrar y mediante un Script, el player interectuara directamente con la puerta mediante el contacto y se aaccionaran los movimientos en un ratio de segundos
+
+**Componentes**
+
+![image](https://user-images.githubusercontent.com/91197896/226444855-fe2b6277-4a69-42d4-9ff1-524d0af90f75.png)
+
+
+
+
+
+
 
 
