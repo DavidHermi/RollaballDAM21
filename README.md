@@ -191,3 +191,40 @@ public class Puerta : MonoBehaviour {
 **Script que me diante dos triggers le indicamos que en caso de colision, con la puerta esta se mueva acorde al movimiento del player**
 
 # Interfaz de unity
+
+Ahora comenzaremos a desglosar el escenario hecho en unity no sin antes señalizar ciertas cosas y enumerar los principales componentes
+
+** Lista de componentes principales de la escena**
+
+![image](https://user-images.githubusercontent.com/91197896/226439528-e22150f0-0143-48c9-bb97-54c5d2006541.png)
+
+**Materiales con los colores de cada componente**
+
+![image](https://user-images.githubusercontent.com/91197896/226440205-4b086910-7960-432f-bd16-519b4ceb6689.png)
+
+**Carpeta de scripts**
+
+
+![image](https://user-images.githubusercontent.com/91197896/226440488-0b569529-cb8d-478b-9a38-eb40929e1b54.png)
+
+
+
+
+**Assets**
+
+
+![image](https://user-images.githubusercontent.com/91197896/226440607-ae2d0a79-5c25-4ae6-89d8-7e303f39f53c.png)
+
+
+Lista de componentes a desglosar
+
+
+1. Camara
+2. Player
+3. Colliders
+4. Enemy
+5. Puerta
+
+
+
+
